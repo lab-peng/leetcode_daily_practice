@@ -1,5 +1,4 @@
- * Register a brand new Leetcode account ✔️
-
+* Terminology
 subarray
 substring
 subsequence
