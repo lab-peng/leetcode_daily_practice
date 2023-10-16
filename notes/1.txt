@@ -2,6 +2,8 @@ have a structured regimen
 
 
 1 hours of freestyle practice (I will browse 25 blind)
+Mon Tue Wes Thu Fri Sat
+1    2   3   1   2   3
+
 30 mins of reading books and discussion about the topic
 1 hours of showing each other code and discussion
-
